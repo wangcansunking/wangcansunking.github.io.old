@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.dreamsweet.wang/"/>
+  <link href="https://wangcansunking.github.io/"/>
   <updated>2018-05-11T05:10:00.663Z</updated>
-  <id>https://blog.dreamsweet.wang/</id>
+  <id>https://wangcansunking.github.io/</id>
   
   <author>
     <name>Sunky Wang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.dreamsweet.wang/2018/05/11/hello-world/"/>
-    <id>https://blog.dreamsweet.wang/2018/05/11/hello-world/</id>
+    <link href="https://wangcansunking.github.io/2018/05/11/hello-world/"/>
+    <id>https://wangcansunking.github.io/2018/05/11/hello-world/</id>
     <published>2018-05-11T05:10:00.663Z</published>
     <updated>2018-05-11T05:10:00.663Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="started" scheme="https://blog.dreamsweet.wang/categories/started/"/>
+      <category term="started" scheme="https://wangcansunking.github.io/categories/started/"/>
     
     
-      <category term="hello" scheme="https://blog.dreamsweet.wang/tags/hello/"/>
+      <category term="hello" scheme="https://wangcansunking.github.io/tags/hello/"/>
     
-      <category term="world" scheme="https://blog.dreamsweet.wang/tags/world/"/>
+      <category term="world" scheme="https://wangcansunking.github.io/tags/world/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.dreamsweet.wang/2018/05/11/hello-world1/"/>
-    <id>https://blog.dreamsweet.wang/2018/05/11/hello-world1/</id>
+    <link href="https://wangcansunking.github.io/2018/05/11/hello-world1/"/>
+    <id>https://wangcansunking.github.io/2018/05/11/hello-world1/</id>
     <published>2018-05-11T05:10:00.000Z</published>
     <updated>2018-05-11T05:10:00.000Z</updated>
     
@@ -61,12 +61,12 @@
     
     </summary>
     
-      <category term="started" scheme="https://blog.dreamsweet.wang/categories/started/"/>
+      <category term="started" scheme="https://wangcansunking.github.io/categories/started/"/>
     
     
-      <category term="hello" scheme="https://blog.dreamsweet.wang/tags/hello/"/>
+      <category term="hello" scheme="https://wangcansunking.github.io/tags/hello/"/>
     
-      <category term="world" scheme="https://blog.dreamsweet.wang/tags/world/"/>
+      <category term="world" scheme="https://wangcansunking.github.io/tags/world/"/>
     
   </entry>
   
